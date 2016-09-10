@@ -2,7 +2,7 @@
 
 <html>
 <body>
-win10 下配置genymotion
+win10 下配置genymotion</br>
   Genymotion 是当今最给力的安卓模拟器。可配置，应用没那么顺畅。
   下面我给出了我怎么配置模拟器</br>
   1.装genymotion再下virtual box，推荐genymotion和virtual box 分开下最新版本。
@@ -14,7 +14,7 @@ win10 下配置genymotion
   最小地址 192.168.56.101,最大地址  192.168.56.254  。</br>
   5.重启，打开virtual box,再打开genymotion 就ok了。</br>
 </br>
-ps：想下系统的童鞋很有可能不会顺利下下系统，这里你可以手动下载系统，再把系统放在C:\Users\***\AppData\Local\Genymobile\Genymotion\ova 目录下，再重新走一遍下系统流程就可以成功添加系统到你的genymotion目录下。那么怎么手动下？你走一遍正规的下系统流程，整个过程会记录在log里面。log地址  C:\Users\***\AppData\Local\Genymobile\genymotion.log  。从最下面开始往上找 有没有 downloading ，再把对应的下载地址复制过来就行了。
+ps：想下系统的童鞋很有可能不会顺利下下系统，这里你可以手动下载系统，再把系统放在C:\Users\用户名\AppData\Local\Genymobile\Genymotion\ova 目录下，再重新走一遍下系统流程就可以成功添加系统到你的genymotion目录下。那么怎么手动下？你走一遍正规的下系统流程，整个过程会记录在log里面。log地址  C:\Users\用户名\AppData\Local\Genymobile\genymotion.log  。从最下面开始往上找 有没有 downloading ，再把对应的下载地址复制过来就行了。
 
 
   
